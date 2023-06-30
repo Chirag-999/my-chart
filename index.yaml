@@ -9,6 +9,6 @@ entries:
     name: laravel-admin-development
     type: application
     urls:
-    - https://github.com/Chirag-999/my-chart/laravel-admin-development-0.1.0.tgz
+    - https://chirag-999.github.io/my-chart/laravel-admin-development-0.1.0.tgz
     version: 0.1.0
 generated: "2023-06-30T14:38:46.544139314+05:30"
