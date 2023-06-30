@@ -3,12 +3,12 @@ entries:
   laravel-admin-development:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-06-30T13:52:18.372979541+05:30"
+    created: "2023-06-30T14:38:46.544471272+05:30"
     description: A Helm chart for rnr project
     digest: d78f8ff1091849801089b67a42face63cee44783a7ac2238abf46c5517d2221a
     name: laravel-admin-development
     type: application
     urls:
-    - laravel-admin-development-0.1.0.tgz
+    - https://github.com/Chirag-999/my-chart/laravel-admin-development-0.1.0.tgz
     version: 0.1.0
-generated: "2023-06-30T13:52:18.372654617+05:30"
+generated: "2023-06-30T14:38:46.544139314+05:30"
